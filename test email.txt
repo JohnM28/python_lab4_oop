@@ -1,0 +1,5 @@
+From: john@gmail.com
+To folan@gmail.com
+
+Hi, reciver_name
+This is an email template thanks!
